@@ -1,0 +1,29 @@
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.AssemblyReference.cache
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.Properties.Resources.resources
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.GenerateResource.cache
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.CoreCompileInputs.cache
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.BCCR.frmCambio.resources
+D:\PROYECTO\AppCine\ServicioBCCR\bin\Debug\ServicioBCCR.exe.config
+D:\PROYECTO\AppCine\ServicioBCCR\bin\Debug\ServicioBCCR.exe
+D:\PROYECTO\AppCine\ServicioBCCR\bin\Debug\ServicioBCCR.pdb
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.exe
+D:\PROYECTO\AppCine\ServicioBCCR\obj\Debug\ServicioBCCR.pdb
+G:\Progra III\ServicioBCCR\bin\Debug\ServicioBCCR.exe.config
+G:\Progra III\ServicioBCCR\bin\Debug\ServicioBCCR.exe
+G:\Progra III\ServicioBCCR\bin\Debug\ServicioBCCR.pdb
+G:\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.BCCR.frmCambio.resources
+G:\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.Properties.Resources.resources
+G:\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.GenerateResource.cache
+G:\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.CoreCompileInputs.cache
+G:\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.exe
+G:\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.pdb
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\bin\Debug\ServicioBCCR.exe.config
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\bin\Debug\ServicioBCCR.exe
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\bin\Debug\ServicioBCCR.pdb
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.AssemblyReference.cache
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.BCCR.frmCambio.resources
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.Properties.Resources.resources
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.GenerateResource.cache
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.csproj.CoreCompileInputs.cache
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.exe
+T:\Portafolio Evidencias\Carrera\Diplomado Ingeniería del Software\Cuatri 4\Cuatri I 2\Progra III\ServicioBCCR\obj\Debug\ServicioBCCR.pdb
